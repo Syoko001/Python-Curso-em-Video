@@ -1,0 +1,6 @@
+operacoes = input("Olá, vamos fazer operações ?")
+print("Então vamos...")
+n1 = input("Digite um número:")
+print("Isso, só mais um agora.")
+n2 = input("Digita só mais um ai:")
+print("O valor de sua operação é...",n1+n2)
